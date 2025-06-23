@@ -7,9 +7,9 @@
 Authored by: Masumi Stadler, François Guillemette, Trista J. Vick-Majors and Paul A. del Giorgio
 
 Affiliations:
-Groupe de Recherche Interuniversitaire en Limnologie (GRIL), Département des Sciences Biologiques, Université du Québec à Montréal, Montréal, QC, Canada
-Groupe de Recherche Interuniversitaire en Limnologie (GRIL), Département des Sciences de l'Environnement, Université du Québec à Trois-Rivières, Trois-Rivières, QC, Canada
-Department of Biological Sciences, Michigan Technological University, Houghton, MI, USA
+Groupe de Recherche Interuniversitaire en Limnologie (GRIL), Département des Sciences Biologiques, Université du Québec à Montréal, Montréal, QC, Canada\  
+Groupe de Recherche Interuniversitaire en Limnologie (GRIL), Département des Sciences de l'Environnement, Université du Québec à Trois-Rivières, Trois-Rivières, QC, Canada\  
+Department of Biological Sciences, Michigan Technological University, Houghton, MI, USA\  
 
 ---
 
